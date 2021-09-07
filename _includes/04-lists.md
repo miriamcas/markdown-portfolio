@@ -1,1 +1,2 @@
-Replace this with a list of your favorite things.
+* Play the guitar
+* Reading a book
